@@ -8,10 +8,12 @@ index of repository
 > * #### [Kaggle 项目实战（教程） = 文档 + 代码 + 视频](https://github.com/DavidGPHub/kaggle)
 > * #### [AI Challenger, Baseline. https://challenger.ai/](https://github.com/DavidGPHub/AI_Challenger_2018.git)
 
+
 ## compatitions opensource solutions: 
 > * #### [马上AI全球挑战赛-违约用户风险预测 2th](https://github.com/DavidGPHub/AI-challenger-contest.git)
 > * #### [FDDCprocess](https://github.com/DavidGPHub/FDDCprocess.git)
 > * #### [1st Place Solution for O2O Coupon Usage Forecast](https://github.com/DavidGPHub/O2O-Coupon-Usage-Forecast.git)
+
 
 ## class and roadmap:
 > * ### [自上而下的学习路线: 软件工程师的机器学习 machine-learning-for-software-engineers](https://github.com/DavidGPHub/machine-learning-for-software-engineers.git)
@@ -22,12 +24,14 @@ index of repository
 ## machine learning:
 > * ### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
 
+
+
 ## deep learning:
-> #### [ Tensorflow: An Open Source Machine Learning Framework for Everyone https://tensorflow.org](https://github.com/DavidGPHub/tensorflow.git)
-> #### [ TensorFlow - A curated list of dedicated resources http://tensorflow.org](https://github.com/DavidGPHub/awesome-tensorflow.git)
-> #### [OpenAI: A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/](https://github.com/DavidGPHub/gym.git)
-> #### [TensorFlow on YARN (TonY) is a framework to natively run TensorFlow on Apache Hadoop.](https://github.com/DavidGPHub/TonY.git)
-> #### [Qihoo360 AI on Hadoop: XLearning是一款支持多种机器学习、深度学习框架的调度系统。基于Hadoop Yarn完成了对TensorFlow、MXNet、Caffe、Theano、PyTorch、Keras、XGBoost等常用框架的集成，同时具备良好的扩展性和兼容性。](https://github.com/DavidGPHub/XLearning.git)
+> * #### [ Tensorflow: An Open Source Machine Learning Framework for Everyone https://tensorflow.org](https://github.com/DavidGPHub/tensorflow.git)
+> * #### [ TensorFlow - A curated list of dedicated resources http://tensorflow.org](https://github.com/DavidGPHub/awesome-tensorflow.git)
+> * #### [OpenAI: A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/](https://github.com/DavidGPHub/gym.git)
+> * #### [TensorFlow on YARN (TonY) is a framework to natively run TensorFlow on Apache Hadoop.](https://github.com/DavidGPHub/TonY.git)
+> * #### [Qihoo360 AI on Hadoop: XLearning是一款支持多种机器学习、深度学习框架的调度系统。基于Hadoop Yarn完成了对TensorFlow、MXNet、Caffe、Theano、PyTorch、Keras、XGBoost等常用框架的集成，同时具备良好的扩展性和兼容性。](https://github.com/DavidGPHub/XLearning.git)
 > * #### [LSTM built using Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data](https://github.com/DavidGPHub/LSTM-Neural-Network-for-Time-Series-Prediction.git)
 > * #### [My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/DavidGPHub/DeepQA.git)
 > * #### [基于深度强化学习的资源调度研究](https://github.com/DavidGPHub/deeprm_reforement_learning.git)
