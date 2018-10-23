@@ -73,9 +73,9 @@ index of repository
 
 
 ## interview related:
-> * #### [算法相关知识储备 LeetCode with Python ](https://github.com/DavidGPHub/leetCode.git)
+> * #### [LeetCode with Python 算法相关知识储备 ](https://github.com/DavidGPHub/leetCode.git)
 > * #### [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/DavidGPHub/awesome-algorithm.git)
-> * #### [正确的姿势，学习的态度来刷 LeetCode：高效的代码、简洁的注释、精炼的总结。](https://github.com/DavidGPHub/LeetCode-1.git)
+> * #### [LeetCode：高效的代码、简洁的注释、精炼的总结。](https://github.com/DavidGPHub/LeetCode-1.git)
 > * ### [2018/2019/算法/(Machine Learning)/(Deep Learning)/(NLP)/C/C++/Python/面试笔记](https://github.com/DavidGPHub/Algorithm_Interview_Notes-Chinese.git)
 > * #### [A list of back-end related questions you can be inspired from to interview potential candidates](https://github.com/DavidGPHub/Back-End-Developer-Interview-Questions.git)
 > * ### [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/DavidGPHub/coding-interview-university.git)
