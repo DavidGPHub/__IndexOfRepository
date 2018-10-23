@@ -4,7 +4,7 @@ index of repository
 ## include all repository by categories:
 
 ## compatitions:
-> * #### [A collection of popular Data Science Competitions](https://github.com/DavidGPHub/DataSciComp.git)
+> * ### [A collection of popular Data Science Competitions](https://github.com/DavidGPHub/DataSciComp.git)
 > * #### [Kaggle 项目实战（教程） = 文档 + 代码 + 视频](https://github.com/DavidGPHub/kaggle)
 > * #### [AI Challenger, Baseline. https://challenger.ai/](https://github.com/DavidGPHub/AI_Challenger_2018.git)
 
@@ -14,13 +14,13 @@ index of repository
 > * #### [1st Place Solution for O2O Coupon Usage Forecast](https://github.com/DavidGPHub/O2O-Coupon-Usage-Forecast.git)
 
 ## class and roadmap:
-> * #### [自上而下的学习路线: 软件工程师的机器学习 machine-learning-for-software-engineers](https://github.com/DavidGPHub/machine-learning-for-software-engineers.git)
+> * ### [自上而下的学习路线: 软件工程师的机器学习 machine-learning-for-software-engineers](https://github.com/DavidGPHub/machine-learning-for-software-engineers.git)
 > * #### [A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy](https://github.com/DavidGPHub/Stanford-CS-229-CN.git)
 > * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
 
 
 ## machine learning:
-> * #### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
+> * ### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
 
 ## deep learning:
 > #### [ Tensorflow: An Open Source Machine Learning Framework for Everyone https://tensorflow.org](https://github.com/DavidGPHub/tensorflow.git)
@@ -64,13 +64,20 @@ index of repository
 > * #### [Software-Defined Networking tools for LXC (LinuX Containers)](https://github.com/DavidGPHub/pipework.git)
 
 ## blockchain:
+> * #### [ book to introduce blockchain related techniques.](https://github.com/DavidGPHub/blockchain_guide.git)
+> * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
+
 
 ## interview related:
 > * #### [算法相关知识储备 LeetCode with Python ](https://github.com/DavidGPHub/leetCode.git)
 > * #### [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/DavidGPHub/awesome-algorithm.git)
 > * #### [正确的姿势，学习的态度来刷 LeetCode：高效的代码、简洁的注释、精炼的总结。](https://github.com/DavidGPHub/LeetCode-1.git)
-> * #### [2018/2019/算法/(Machine Learning)/(Deep Learning)/(NLP)/C/C++/Python/面试笔记](https://github.com/DavidGPHub/Algorithm_Interview_Notes-Chinese.git)
+> * ### [2018/2019/算法/(Machine Learning)/(Deep Learning)/(NLP)/C/C++/Python/面试笔记](https://github.com/DavidGPHub/Algorithm_Interview_Notes-Chinese.git)
 > * #### [A list of back-end related questions you can be inspired from to interview potential candidates](https://github.com/DavidGPHub/Back-End-Developer-Interview-Questions.git)
-> * #### [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/DavidGPHub/coding-interview-university.git)
+> * ### [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/DavidGPHub/coding-interview-university.git)
 
 
+## ebooks:
+> * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
+> * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
+> * #### [Mastering Apache Spark 2, https://jaceklaskowski.gitbooks.io/mastering-apache-spark/](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
