@@ -3,6 +3,9 @@ index of repository
 
 ## include all repository by categories:
 
+## ApacheCN index:
+> * #### [ApacheCN 开源组织 http://www.apachecn.org](https://github.com/DavidGPHub/home.git)
+
 ## compatitions:
 > * ### [A collection of popular Data Science Competitions](https://github.com/DavidGPHub/DataSciComp.git)
 > * #### [Kaggle 项目实战（教程） = 文档 + 代码 + 视频](https://github.com/DavidGPHub/kaggle)
