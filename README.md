@@ -3,8 +3,7 @@ index of repository
 
 ## include all repository by categories:
 
-## ApacheCN index:
-> * #### [ApacheCN 开源组织 http://www.apachecn.org](https://github.com/DavidGPHub/home.git)
+
 
 ## compatitions:
 > * ### [A collection of popular Data Science Competitions](https://github.com/DavidGPHub/DataSciComp.git)
@@ -79,6 +78,9 @@ index of repository
 > * #### [LeetCode with Python 算法相关知识储备 ](https://github.com/DavidGPHub/leetCode.git)
 > * #### [Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/DavidGPHub/awesome-algorithm.git)
 > * #### [LeetCode：高效的代码、简洁的注释、精炼的总结。](https://github.com/DavidGPHub/LeetCode-1.git)
+> * #### [LeetCode 中文文档](https://github.com/apachecn/LeetCode)
+
+
 > * ### [2018/2019/算法/(Machine Learning)/(Deep Learning)/(NLP)/C/C++/Python/面试笔记](https://github.com/DavidGPHub/Algorithm_Interview_Notes-Chinese.git)
 > * #### [A list of back-end related questions you can be inspired from to interview potential candidates](https://github.com/DavidGPHub/Back-End-Developer-Interview-Questions.git)
 > * ### [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/DavidGPHub/coding-interview-university.git)
@@ -88,3 +90,35 @@ index of repository
 > * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
 > * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
 > * #### [Mastering Apache Spark 2, https://jaceklaskowski.gitbooks.io/mastering-apache-spark/](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
+
+
+## ApacheCN index:
+> * #### [ApacheCN 开源组织 http://www.apachecn.org](https://github.com/DavidGPHub/home.git)
+
+> 大数据
+
+>> 1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh)
+>> 2. [Storm 中文文档](https://github.com/apachecn/storm-doc-zh)
+>> 3. [Kafka 中文文档](https://github.com/apachecn/kafka-doc-zh)
+>> 4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh)
+>> 5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh)
+>> 6. [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467)
+>> 7. [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364)
+>> 8. [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
+>> 9. [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) 
+
+> 区块链
+
+>> 1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
+
+> 数学笔记
+
+>> 1. [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
+>> 2. [UCB Prob140 讲义：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+>> 3. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
+
+> Python 基础
+
+>> [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh) 
+>> [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) 
+>> [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) 
