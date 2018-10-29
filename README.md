@@ -37,6 +37,7 @@ index of repository
 > * #### [LSTM built using Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data](https://github.com/DavidGPHub/LSTM-Neural-Network-for-Time-Series-Prediction.git)
 > * #### [My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/DavidGPHub/DeepQA.git)
 > * #### [基于深度强化学习的资源调度研究](https://github.com/DavidGPHub/deeprm_reforement_learning.git)
+> * #### [DeepCreamPy 项目，它可以自动修复漫画图像中的空缺部分和马赛克。该项目主要基于几个月前 Nvidia 提出使用部分卷积修复图像不规则空缺的研究。](https://github.com/DavidGPHub/DeepCreamPy.git)
 
 
 
