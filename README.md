@@ -72,6 +72,7 @@ index of repository
 ## blockchain:
 > * #### [ book to introduce blockchain related techniques.](https://github.com/DavidGPHub/blockchain_guide.git)
 > * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
+> * #### [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
 
 
 ## interview related:
@@ -107,10 +108,6 @@ index of repository
 >> 8. [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
 >> 9. [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) 
 
-> 区块链
-
->> 1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
-
 > 数学笔记
 
 >> 1. [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
@@ -122,3 +119,28 @@ index of repository
 >> [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh) 
 >> [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) 
 >> [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) 
+
+
+> CS 教程
+
+1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
+
+> AI 教程
+
+1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
+2. [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
+3. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
+4. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
+5. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
+6. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
+
+> AI 文档
+
+1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
+2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh)
+3. [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
+4. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh)
+5. [lightgbm 中文文档](https://github.com/apachecn/lightgbm-doc-zh)
+6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh)
+7. [gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
+
