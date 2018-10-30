@@ -45,12 +45,16 @@ index of repository
 ## deep learning benchmark:
 > * #### [Reference implementations of MLPerf benchmarks](https://github.com/DavidGPHub/reference.git)
 
+## deep learning env in docker:
+> * #### [A series of Docker images (and their generator) that allows you to quickly set up your deep learning research environment.](https://github.com/DavidGPHub/deepo.git)
+ (https://hub.docker.com/r/ufoym/deepo)
 
 
 ## NLP related:
 > * #### [100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/DavidGPHub/Chinese-Word-Vectors.git)
 > * #### [深度学习之自然语言处理斯坦福大学CS224n课程集训营](https://github.com/DavidGPHub/cs224n-learning-camp.git)
-> * #### [腾讯开源中文词向量 Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)(https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
+> * #### [腾讯开源中文词向量 Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
+ (https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
 
 ## image related:
 > * #### [Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/DavidGPHub/tencent-ml-images.git)
