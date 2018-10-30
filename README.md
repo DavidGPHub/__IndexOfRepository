@@ -55,6 +55,7 @@ index of repository
 > * #### [深度学习之自然语言处理斯坦福大学CS224n课程集训营](https://github.com/DavidGPHub/cs224n-learning-camp.git)
 > * #### [腾讯开源中文词向量 Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
  (https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
+ > * #### [gensim – Topic Modelling in Python](https://github.com/DavidGPHub/gensim.git)
 
 ## image related:
 > * #### [Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/DavidGPHub/tencent-ml-images.git)
