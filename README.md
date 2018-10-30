@@ -24,8 +24,9 @@ index of repository
 
 
 ## machine learning:
-> * ### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
-
+> * #### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
+> * #### [cs229 learning camp/吴恩达在斯坦福的机器学习课](https://github.com/DavidGPHub/cs229-learning-camp.git)
+> * #### [CS229 Machine Learning Assignments in Python](https://github.com/DavidGPHub/cs229-assignments.git)
 
 
 ## deep learning:
@@ -48,6 +49,8 @@ index of repository
 
 ## NLP related:
 > * #### [100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/DavidGPHub/Chinese-Word-Vectors.git)
+> * #### [深度学习之自然语言处理斯坦福大学CS224n课程集训营](https://github.com/DavidGPHub/cs224n-learning-camp.git)
+> * #### [腾讯开源中文词向量 Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)(https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
 
 ## image related:
 > * #### [Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/DavidGPHub/tencent-ml-images.git)
