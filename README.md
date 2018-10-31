@@ -57,6 +57,7 @@ index of repository
  (https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
  > * #### [gensim – Topic Modelling in Python](https://github.com/DavidGPHub/gensim.git)
  > * #### [自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁](https://github.com/DavidGPHub/HanLP.git) (http://hanlp.com/)
+ > * #### [CS 4650 and 7650](https://github.com/DavidGPHub/gt-nlp-class.git)
 
 ## image related:
 > * #### [Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet](https://github.com/DavidGPHub/tencent-ml-images.git)
