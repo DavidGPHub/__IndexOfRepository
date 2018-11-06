@@ -56,7 +56,7 @@ index of repository
 > * #### [100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/DavidGPHub/Chinese-Word-Vectors.git)
 > * #### [深度学习之自然语言处理斯坦福大学CS224n课程集训营](https://github.com/DavidGPHub/cs224n-learning-camp.git)
 > * #### [腾讯开源中文词向量 Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
- (https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
+ >> (https://ai.tencent.com/ailab/nlp/data/Tencent_AILab_ChineseEmbedding.tar.gz)
  > * #### [gensim – Topic Modelling in Python](https://github.com/DavidGPHub/gensim.git)
  > * #### [自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁](https://github.com/DavidGPHub/HanLP.git) (http://hanlp.com/)
  > * #### [CS 4650 and 7650](https://github.com/DavidGPHub/gt-nlp-class.git)
