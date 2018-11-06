@@ -39,6 +39,8 @@ index of repository
 > * #### [My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/DavidGPHub/DeepQA.git)
 > * #### [基于深度强化学习的资源调度研究](https://github.com/DavidGPHub/deeprm_reforement_learning.git)
 > * #### [DeepCreamPy 项目，它可以自动修复漫画图像中的空缺部分和马赛克。该项目主要基于几个月前 Nvidia 提出使用部分卷积修复图像不规则空缺的研究。](https://github.com/DavidGPHub/DeepCreamPy.git)
+> * #### [Google: Fast and flexible AutoML with learning guarantees.](https://github.com/tensorflow/adanet.git)
+   轻量级 AutoML 框架 —— AdaNet，该框架基于 TensorFlow，只需要少量的专家干预便能自动学习高质量模型，在提供学习保证（learning guarantee）的同时也能保持快速、灵活。值得一提的是，AdaNet 提供了一种通用框架，不仅能够学习神经网络架构，还能学习集成从而获得更佳的模型。
 
 
 
