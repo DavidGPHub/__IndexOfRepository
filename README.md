@@ -27,6 +27,7 @@ index of repository
 > * #### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
 > * #### [cs229 learning camp/吴恩达在斯坦福的机器学习课](https://github.com/DavidGPHub/cs229-learning-camp.git)
 > * #### [CS229 Machine Learning Assignments in Python](https://github.com/DavidGPHub/cs229-assignments.git)
+> * #### [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
 
 
 ## deep learning:
