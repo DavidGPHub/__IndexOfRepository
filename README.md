@@ -6,7 +6,7 @@ index of repository
 
 
 ## compatitions:
-> * ### [A collection of popular Data Science Competitions](https://github.com/DavidGPHub/DataSciComp.git)
+> * ### [A collection of popular Data Science Competitions](https://github.com/iphysresearch/DataSciComp.git)
 > * #### [Kaggle 项目实战（教程） = 文档 + 代码 + 视频](https://github.com/DavidGPHub/kaggle)
 > * #### [AI Challenger, Baseline. https://challenger.ai/](https://github.com/DavidGPHub/AI_Challenger_2018.git)
 
