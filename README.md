@@ -15,6 +15,7 @@ index of repository
 > * #### [马上AI全球挑战赛-违约用户风险预测 2th](https://github.com/DavidGPHub/AI-challenger-contest.git)
 > * #### [FDDCprocess](https://github.com/DavidGPHub/FDDCprocess.git)
 > * #### [1st Place Solution for O2O Coupon Usage Forecast](https://github.com/DavidGPHub/O2O-Coupon-Usage-Forecast.git)
+> * #### [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution.git)
 
 
 ## class and roadmap:
