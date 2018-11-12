@@ -30,6 +30,8 @@ index of repository
 > * #### [CS229 Machine Learning Assignments in Python](https://github.com/DavidGPHub/cs229-assignments.git)
 > * #### [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
 > * #### [机器学习特征工程实用技巧大全](https://zhuanlan.zhihu.com/p/26444240)
+> * #### [深度有趣 - 人工智能实战项目合集](https://github.com/Honlan/DeepInterests.git)
+> * #### [10 Steps to Become a Data Scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist.git)
 
 
 ## deep learning:
