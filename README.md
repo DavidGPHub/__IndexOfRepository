@@ -32,6 +32,7 @@ index of repository
 > * #### [机器学习特征工程实用技巧大全](https://zhuanlan.zhihu.com/p/26444240)
 > * #### [深度有趣 - 人工智能实战项目合集](https://github.com/Honlan/DeepInterests.git)
 > * #### [10 Steps to Become a Data Scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist.git)
+> * #### [MLFlow - Open source platform for the machine learning lifecycle https://mlflow.org](https://github.com/mlflow/mlflow.git)
 
 
 ## deep learning:
