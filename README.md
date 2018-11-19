@@ -22,6 +22,7 @@ index of repository
 > * ### [自上而下的学习路线: 软件工程师的机器学习 machine-learning-for-software-engineers](https://github.com/DavidGPHub/machine-learning-for-software-engineers.git)
 > * #### [A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy](https://github.com/DavidGPHub/Stanford-CS-229-CN.git)
 > * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
+> * #### [深度学习/人工智能/机器学习资料汇总(Deep Learning/Artificial Intelligent/Machine Learning) 持续更新……](https://github.com/Robinwho/Deep-Learning.git)
 
 
 ## machine learning:
@@ -36,6 +37,12 @@ index of repository
 > * #### [H2O.ai -- Fast Scalable Machine Learning For Smarter Applications](https://github.com/h2oai)
 > * #### [MLeap: Deploy Spark Pipelines to Production http://mleap-docs.combust.ml/](https://github.com/combust/mleap.git)
 
+## AutoML:
+> * #### [Google Cloud Client Library for Python https://googlecloudplatform.github.io…](https://github.com/googleapis/google-cloud-python/tree/master/automl)
+>> Notes, scripts and codes related to Google's AutoML    https://cloud.google.com/automl/
+> * #### [Google: Fast and flexible AutoML with learning guarantees.](https://github.com/tensorflow/adanet.git)
+>>   轻量级 AutoML 框架 —— AdaNet，该框架基于 TensorFlow，只需要少量的专家干预便能自动学习高质量模型，在提供学习保证（learning guarantee）的同时也能保持快速、灵活。值得一提的是，AdaNet 提供了一种通用框架，不仅能够学习神经网络架构，还能学习集成从而获得更佳的模型。
+> * ####[]()
 
 ## deep learning:
 > * #### [ Tensorflow: An Open Source Machine Learning Framework for Everyone https://tensorflow.org](https://github.com/DavidGPHub/tensorflow.git)
@@ -47,8 +54,6 @@ index of repository
 > * #### [My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot](https://github.com/DavidGPHub/DeepQA.git)
 > * #### [基于深度强化学习的资源调度研究](https://github.com/DavidGPHub/deeprm_reforement_learning.git)
 > * #### [DeepCreamPy 项目，它可以自动修复漫画图像中的空缺部分和马赛克。该项目主要基于几个月前 Nvidia 提出使用部分卷积修复图像不规则空缺的研究。](https://github.com/DavidGPHub/DeepCreamPy.git)
-> * #### [Google: Fast and flexible AutoML with learning guarantees.](https://github.com/tensorflow/adanet.git)
->>   轻量级 AutoML 框架 —— AdaNet，该框架基于 TensorFlow，只需要少量的专家干预便能自动学习高质量模型，在提供学习保证（learning guarantee）的同时也能保持快速、灵活。值得一提的是，AdaNet 提供了一种通用框架，不仅能够学习神经网络架构，还能学习集成从而获得更佳的模型。
 > * #### [深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者](https://github.com/scutan90/DeepLearning-500-questions.git)
 
 
