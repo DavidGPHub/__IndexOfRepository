@@ -18,11 +18,12 @@ index of repository
 > * #### [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution.git)
 
 
-## class and roadmap:
+## class/books and roadmap:
 > * ### [自上而下的学习路线: 软件工程师的机器学习 machine-learning-for-software-engineers](https://github.com/DavidGPHub/machine-learning-for-software-engineers.git)
 > * #### [A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy](https://github.com/DavidGPHub/Stanford-CS-229-CN.git)
 > * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
 > * #### [深度学习/人工智能/机器学习资料汇总(Deep Learning/Artificial Intelligent/Machine Learning) 持续更新……](https://github.com/Robinwho/Deep-Learning.git)
+> * #### [《神经网络与深度学习》 Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io.git)
 
 
 ## machine learning:
