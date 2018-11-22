@@ -20,30 +20,31 @@ index of repository
 
 ## class/books and roadmap:
 > * ### [自上而下的学习路线: 软件工程师的机器学习 machine-learning-for-software-engineers](https://github.com/DavidGPHub/machine-learning-for-software-engineers.git)
-> * #### [A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy](https://github.com/DavidGPHub/Stanford-CS-229-CN.git)
 > * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
-> * #### [深度学习/人工智能/机器学习资料汇总(Deep Learning/Artificial Intelligent/Machine Learning) 持续更新……](https://github.com/Robinwho/Deep-Learning.git)
 > * #### [《神经网络与深度学习》 Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io.git)
+
+> * #### [深度学习/人工智能/机器学习资料汇总(Deep Learning/Artificial Intelligent/Machine Learning) 持续更新……](https://github.com/Robinwho/Deep-Learning.git)
+> * #### [10 Steps to Become a Data Scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist.git)
 
 
 ## machine learning:
 > * #### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
 > * #### [cs229 learning camp/吴恩达在斯坦福的机器学习课](https://github.com/DavidGPHub/cs229-learning-camp.git)
 > * #### [CS229 Machine Learning Assignments in Python](https://github.com/DavidGPHub/cs229-assignments.git)
+> * #### [A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy](https://github.com/DavidGPHub/Stanford-CS-229-CN.git)
 > * #### [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
 > * #### [机器学习特征工程实用技巧大全](https://zhuanlan.zhihu.com/p/26444240)
 > * #### [深度有趣 - 人工智能实战项目合集](https://github.com/Honlan/DeepInterests.git)
-> * #### [10 Steps to Become a Data Scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist.git)
 > * #### [MLFlow - Open source platform for the machine learning lifecycle https://mlflow.org](https://github.com/mlflow/mlflow.git)
-> * #### [H2O.ai -- Fast Scalable Machine Learning For Smarter Applications](https://github.com/h2oai)
-> * #### [MLeap: Deploy Spark Pipelines to Production http://mleap-docs.combust.ml/](https://github.com/combust/mleap.git)
 
 ## AutoML:
 > * #### [Google Cloud Client Library for Python https://googlecloudplatform.github.io…](https://github.com/googleapis/google-cloud-python/tree/master/automl)
 >> Notes, scripts and codes related to Google's AutoML    https://cloud.google.com/automl/
 > * #### [Google: Fast and flexible AutoML with learning guarantees.](https://github.com/tensorflow/adanet.git)
 >>   轻量级 AutoML 框架 —— AdaNet，该框架基于 TensorFlow，只需要少量的专家干预便能自动学习高质量模型，在提供学习保证（learning guarantee）的同时也能保持快速、灵活。值得一提的是，AdaNet 提供了一种通用框架，不仅能够学习神经网络架构，还能学习集成从而获得更佳的模型。
-> * ####[]()
+> * #### [H2O.ai -- Fast Scalable Machine Learning For Smarter Applications](https://github.com/h2oai)
+> * #### [MLeap: Deploy Spark Pipelines to Production http://mleap-docs.combust.ml/](https://github.com/combust/mleap.git)
+
 
 ## deep learning:
 > * #### [ Tensorflow: An Open Source Machine Learning Framework for Everyone https://tensorflow.org](https://github.com/DavidGPHub/tensorflow.git)
@@ -104,6 +105,8 @@ index of repository
 > * #### [ book to introduce blockchain related techniques.](https://github.com/DavidGPHub/blockchain_guide.git)
 > * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
 > * #### [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
+> * #### [20170420（IBM微讲堂）区块链和HyperLedger系列（1-6）](https://www.jianshu.com/p/1c7492c42581)
+> * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
 
 
 ## interview related:
@@ -118,9 +121,7 @@ index of repository
 > * ### [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/DavidGPHub/coding-interview-university.git)
 
 
-## ebooks:
-> * #### [Deep Learning 中文翻译 deeplearningbook-chinese](https://github.com/DavidGPHub/deeplearningbook-chinese.git)
-> * #### [https://yeasy.gitbooks.io/blockchain_guide](https://yeasy.gitbooks.io/blockchain_guide)
+## Spark:
 > * #### [Mastering Apache Spark 2, https://jaceklaskowski.gitbooks.io/mastering-apache-spark/](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
 
