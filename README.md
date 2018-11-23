@@ -58,7 +58,11 @@ index of repository
 > * #### [DeepCreamPy 项目，它可以自动修复漫画图像中的空缺部分和马赛克。该项目主要基于几个月前 Nvidia 提出使用部分卷积修复图像不规则空缺的研究。](https://github.com/DavidGPHub/DeepCreamPy.git)
 > * #### [深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者](https://github.com/scutan90/DeepLearning-500-questions.git)
 
-
+## Tensorflow:
+> * #### [Zhihu tensorflow机器学习中文入门资源汇总](https://zhuanlan.zhihu.com/p/34922745)
+> * #### [ 简单粗暴TensorFlow](https://tf.wiki/zh/basic.html)
+> * #### [Tensorflow.org  开始使用 TensorFlow](https://www.tensorflow.org/tutorials/?hl=zh-cn)
+> * #### [TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials.git)
 
 ## deep learning benchmark:
 > * #### [Reference implementations of MLPerf benchmarks](https://github.com/DavidGPHub/reference.git)
