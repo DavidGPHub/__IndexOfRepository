@@ -16,6 +16,7 @@ index of repository
 > * #### [FDDCprocess](https://github.com/DavidGPHub/FDDCprocess.git)
 > * #### [1st Place Solution for O2O Coupon Usage Forecast](https://github.com/DavidGPHub/O2O-Coupon-Usage-Forecast.git)
 > * #### [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution.git)
+> * #### [CCF-大数据竞赛-基金间的相关性预测-复赛19名	](https://github.com/DavidGPHub/CCF-bigdata.git)
 
 
 ## class/books and roadmap:
@@ -25,6 +26,7 @@ index of repository
 
 > * #### [深度学习/人工智能/机器学习资料汇总(Deep Learning/Artificial Intelligent/Machine Learning) 持续更新……](https://github.com/Robinwho/Deep-Learning.git)
 > * #### [10 Steps to Become a Data Scientist](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist.git)
+> * #### [机器学习专项领域学习  ](https://github.com/JustFollowUs/Machine-Learning.git)
 
 
 ## machine learning:
