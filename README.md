@@ -77,6 +77,7 @@ index of repository
 
 
 ## NLP related:
+> * #### [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress.git)
 > * #### [100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/DavidGPHub/Chinese-Word-Vectors.git)
 > * #### [深度学习之自然语言处理斯坦福大学CS224n课程集训营](https://github.com/DavidGPHub/cs224n-learning-camp.git)
 > * #### [腾讯开源中文词向量 Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/embedding.html)
