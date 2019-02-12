@@ -32,6 +32,8 @@ index of repository
 ## machine learning:
 > * #### [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/](https://github.com/DavidGPHub/AiLearning.git)
 > * #### [cs229 learning camp/吴恩达在斯坦福的机器学习课](https://github.com/DavidGPHub/cs229-learning-camp.git)
+> * #### [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes.git)
+> * #### [吴恩达老师的深度学习课（deepLearning.ai）的笔记](https://github.com/fengdu78/deeplearning_ai_books)
 > * #### [CS229 Machine Learning Assignments in Python](https://github.com/DavidGPHub/cs229-assignments.git)
 > * #### [A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy](https://github.com/DavidGPHub/Stanford-CS-229-CN.git)
 > * #### [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)](https://github.com/ty4z2008/Qix/blob/master/dl2.md)
